@@ -4,21 +4,21 @@ The Project Management System is a full-stack web application designed to help s
 It also provides visual insights into project trends using interactive charts.
 
 # 🚀 Features
-Student project upload and management
+1️⃣Student project upload and management
 
-Search and explore existing projects
+2️⃣Search and explore existing projects
 
-Role-based access control for secure usage
+3️⃣Role-based access control for secure usage
 
-Mentor collaboration and query support
+4️⃣Mentor collaboration and query support
 
-Interactive dashboards for project insights
+5️⃣Interactive dashboards for project insights
 
-Technology-wise project trend analysis
+6️⃣Technology-wise project trend analysis
 
 # 🛠️ Tech Stack
 
-**Frontend:**
+1️⃣**Frontend:**
 
 React.js
 
@@ -26,15 +26,15 @@ HTML
 
 CSS
 
-**Backend:**
+2️⃣**Backend:**
 
 Node.js
 
-**Database:**
+3️⃣**Database:**
 
 MySQL
 
-**Visualization:**
+4️⃣**Visualization:**
 
 Chart.js
 
@@ -53,15 +53,23 @@ Project-Management-System/
 
 # 📊 Key Functionalities
 
-Manage student projects efficiently
+1️⃣Manage student projects efficiently
 
-Store project details in MySQL database
+2️⃣Store project details in MySQL database
 
-Secure authentication and role-based access
+3️⃣Secure authentication and role-based access
 
-Visualize project trends using charts
+4️⃣Visualize project trends using charts
 
+# 🎯 Learning Outcomes
 
+1️⃣Full-stack web development
+
+2️⃣Database design and management
+
+3️⃣REST API integration
+
+4️⃣Data visualization using Chart.js
 
 
 
