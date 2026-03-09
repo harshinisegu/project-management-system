@@ -1,3 +1,4 @@
+# 📂 Project Management System
 # 📌 Overview
 The Project Management System is a full-stack web application designed to help students manage and organize their academic projects efficiently. The platform allows users to upload, search, and extend project records while enabling collaboration with mentors.
 
