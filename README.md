@@ -41,6 +41,7 @@ Chart.js
 # 📂 Project Structure
 
 Project-Management-System/
+
 │
 
 ├── frontend/          # React frontend
